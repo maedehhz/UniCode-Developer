@@ -23,7 +23,7 @@ Welcome to the Tuba Website Developer repository! This project is focused on cre
 To get started with the Tuba Website, clone the repository and install the necessary dependencies.
 
 bash
-git clone https://github.com/username/tuba-website.git
+git clone https://github.com/maedehhz/UniCode-Developer
 cd tuba-website
 npm install
 
@@ -34,7 +34,7 @@ After installation, you can start the development server:
 bash
 npm start
 
-Open your browser and navigate to http://localhost:3000 to see the website in action.
+Open your browser and navigate to https://tuba.liara.run/ to see the website in action.
 
 ## Contributing
 
